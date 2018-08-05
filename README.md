@@ -25,7 +25,7 @@ Meanwhile, those annotations of parameters contain enough context for applicatio
 
 Separating definition of parameters and the logic of controllers is important to the application's structure, and it's very useful to reuse codes and refactor them.
 
-- [*] allow to specify where the parameter comes
+- [x] allow to specify where the parameter comes
 - [ ] allow to specify the type of parameters
 - [ ] allow to customize types(validator and transducer)
 - [ ] marshall the return content
